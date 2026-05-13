@@ -1,1 +1,1 @@
-Required and Recommended Reading for the Course
+# Required and Recommended Reading for the Course
